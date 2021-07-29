@@ -1,0 +1,10 @@
+{
+  "name": "alt-check",
+  "version": "0.0.1",
+  "description": "Check the alt-text of tweets with images",
+  "author": "Erik Kroes",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

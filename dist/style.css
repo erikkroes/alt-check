@@ -1,0 +1,14 @@
+/* Generic bit */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: whitesmoke;
+  color: #2d2d35;
+  font-size: 1.1875rem;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+}
